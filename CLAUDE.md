@@ -2,4 +2,4 @@
 
 ## Notes
 
-- Static, client-only tool. Conventions live in the workspace `AGENTS.md` + the static contract. `crusher-ui-kit` is read-only here (request changes by appending to `x:/itxcrusher/INBOX.md`).
+- World page (darkroom gauge). Conventions: workspace `AGENTS.md`, `docs/design-language.md` (tools section), the atlas. Verify at 1440 and 390 with Playwright `setViewportSize` before shipping.
