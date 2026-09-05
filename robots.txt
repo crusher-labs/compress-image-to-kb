@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://crusher-labs.github.io/compress-image-to-kb/sitemap.xml
