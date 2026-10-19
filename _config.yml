@@ -1,0 +1,7 @@
+# GitHub Pages builds this repo with Jekyll. Without this list it publishes the
+# repo's Markdown (AGENTS.md, CLAUDE.md, README.md) as HTML pages beside the
+# redirect stub. The tool lives at https://tools.muhammadhassaanjaved.com/compress-image-to-kb/.
+exclude:
+  - "*.md"
+  - "scripts"
+  - "*/scripts"
